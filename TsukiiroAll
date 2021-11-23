@@ -11,6 +11,14 @@
         "Mushokuji": "/proxy/api/imgur/chapter/utlvIe6/"
       },
       "last_updated": "1636475142"
+    },
+  "chapters": {
+    "10": {
+      "title": "Invader from the Dark Side of the Moon",
+      "groups": {
+        "Mushokuji": "/proxy/api/imgur/chapter/rkZGTNu/"
+      },
+      "last_updated": "1637653189"
     }
   }
 }
